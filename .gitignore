@@ -1,0 +1,17 @@
+# Ignore frames
+*.jpg
+
+# Ignore videos
+*.mkv
+*.mp4
+
+# Environment variables
+.env
+
+# pipenv
+*env/
+
+#MacOS files
+.DS_Store
+.AppleDouble
+.LSOverride
