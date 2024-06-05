@@ -117,5 +117,4 @@ def process_video(video_path, frames_folder, output_csv):
 video_path = 'output_videos.mp4'
 frames_folder = 'frames_folder'
 
-# Process the video to find "wins!" screens and extract player info
 process_video(video_path, frames_folder, "test.csv")
